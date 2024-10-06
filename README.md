@@ -1,4 +1,4 @@
-[![header](./assets/cover.png)]
+![header](./assets/cover.png)
 
 # hi i'm sanjith.
 
