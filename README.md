@@ -3,7 +3,7 @@
 
 cs student, into computer architecture, like working on open-source stuff
 
-- **focus**: c, c++, rust
-- **learning**: docker, go
+- **focus**: rust, c++, js
+- **learning**: 
 - **collab**: open to interesting projects
 
