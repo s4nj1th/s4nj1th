@@ -1,5 +1,6 @@
+hi i'm **_sanjith_**.
+
 ![header](./assets/cover.png)
-# hi i'm sanjith.
 
 cs student, working on open-source stuff
 
