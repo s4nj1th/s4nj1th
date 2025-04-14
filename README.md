@@ -1,6 +1,6 @@
 hi i'm **_sanjith_**.
 
-![header](./assets/cover.png)
+![header](./assets/githubHeader.png)
 
 cs student, working on open-source stuff
 
