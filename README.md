@@ -1,8 +1,9 @@
-hi i'm **_sanjith_**. [[portfolio](https://pf-s4nj1th.vercel.app)]
+# hi, i'm **sanjith**.
 
 ![header](./assets/githubHeaderV9.png)
 
 <div align="right">
-cs student, working on open-source stuff.<br />
-ai/ml · full-stack · devops
+cs student - exploring what interests me<br />
+ml & ai · devops · full-stack<br />
+[<a href="https://pf-s4nj1th.vercel.app">portfolio</a>]
 </div>
