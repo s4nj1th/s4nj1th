@@ -1,4 +1,4 @@
-# hi, i'm **sanjith**.
+hi, i'm **sanjith**.
 
 ![header](./assets/githubHeaderV9.png)
 
