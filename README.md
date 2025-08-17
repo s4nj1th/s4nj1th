@@ -5,5 +5,5 @@ hi, i'm **sanjith**.
 <div align="right">
 cs student - exploring what interests me<br />
 ml & ai · devops · full-stack<br />
-[<a href="https://pf-s4nj1th.vercel.app">portfolio</a>]
+[<a href="https://s4nj1th.vercel.app">portfolio</a>]
 </div>
