@@ -1,24 +1,40 @@
 <table align="center">
   <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s4nj1th&theme=dark">
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=s4nj1th&theme=dark">
+    </td>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s4nj1th&theme=dark&utcOffset=5.5">
     </td>
   </tr>
-</table>
 
-<table align="center">
   <tr>
-    <td>
+    <td colspan="2" align="center">
+      <br>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s4nj1th&theme=dark">
+      <br><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s4nj1th&theme=dark">
     </td>
-    <td>
+    <td align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s4nj1th&theme=dark">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img src="https://streak-stats.demolab.com?user=s4nj1th&theme=dark&hide_border=true">
     </td>
   </tr>
 </table>
 
 <div align="center">
   <br />
-  <h4><i>born to be minimal, forced to put ts.</i></h4>
-  <h3>💔🥀</h3>
+  <h1>💔🥀</h1>
+  <sub><i>born to be minimal, forced to put ts.</i></sub>
 </div>
