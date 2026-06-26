@@ -36,5 +36,5 @@
 <div align="center">
   <br />
   <h1>💔🥀</h1>
-  <sub><i>born to be minimal, forced to put ts.</i></sub>
+  <sup><i>born to be minimal, forced to put ts.</i></sup>
 </div>
